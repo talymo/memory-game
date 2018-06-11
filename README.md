@@ -23,7 +23,7 @@ Please follow Google styleguides for HTML, CSS and Javascript if you plan on con
 ## Authors
 
 * **Udacity Code Base** - Base code. [Git Repo](https://github.com/udacity/fend-project-memory-game)
-* **Tabetha Moe** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
+* **Tabetha Moe** - *Initial work* 
 
 ## License
 
