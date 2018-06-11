@@ -68,6 +68,8 @@ function setBoard() {
 
     // Set the moves to zero
     moves = 0;
+    // Set matches
+    matches = 0;
     // Set the time to zero
     time = 0;
     // Set the moves text to the moves variable
