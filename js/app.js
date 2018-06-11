@@ -66,6 +66,12 @@ function setCards(shuffled) {
 function setBoard() {
     // Set up the board to start play
 
+    // Set the stars to 3
+    stars = 3;
+    var starEl = document.getElementsByClassName('fa-star');
+    for (var i = 0; i < starEl.length; i++) {
+        starEl[i].style.color = "#000";
+    }
     // Set the moves to zero
     moves = 0;
     // Set matches

@@ -16,6 +16,11 @@ There are no prerequisites to get this code base running. It is built in simple 
 * CSS
 * Javascript
 
+## Dependecies
+
+* Font Awesome
+* Google Fonts
+
 ## Contributing
 
 Please follow Google styleguides for HTML, CSS and Javascript if you plan on contributing to the project.
@@ -23,7 +28,7 @@ Please follow Google styleguides for HTML, CSS and Javascript if you plan on con
 ## Authors
 
 * **Udacity Code Base** - Base code. [Git Repo](https://github.com/udacity/fend-project-memory-game)
-* **Tabetha Moe** - *Initial work* 
+* **Tabetha Moe** - *Initial work*
 
 ## License
 
